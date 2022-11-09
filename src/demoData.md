@@ -1,4 +1,4 @@
-(You may have to "view raw" and zoom out if the following tables look crazy on your screen...I suppose I could have screenshotted this...)
+(You may have to "view raw" and zoom out if the following tables look crazy on your screen)
 
 Covers Test Cases 1 and 2:
 

@@ -14,6 +14,7 @@ Prototyping a DB design schema for client balance management, and a couple funct
 ### Installation
 * Not necessary unless you're trying to read this in your code editor and want the squiggly red linting lines to go away :) in which case you'll probably have to install the packages so that Typescript stops complaining:
 ```
+$ git clone git@github.com:bistacos/db-design-challenge.git
 $ cd db-design-challenge
 $ npm i
 ```
